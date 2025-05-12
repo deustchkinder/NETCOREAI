@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rjacimJg5y8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emred\\NetCoreAI\\NetCoreAI.Project16_PdfAnalyzeWithOpenAI\\NetCoreAI.Project16_PdfAnalyzeWithOpenAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emred\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\emred\\.nuget\\packages\\pdfpig\\0.1.9\\pdfpig.0.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

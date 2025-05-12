@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9Xxqg9TOVk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emred\\NetCoreAI\\NetCoreAI.Project6_DallEImageGeneration\\NetCoreAI.Project06_DallEImageGeneration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emred\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

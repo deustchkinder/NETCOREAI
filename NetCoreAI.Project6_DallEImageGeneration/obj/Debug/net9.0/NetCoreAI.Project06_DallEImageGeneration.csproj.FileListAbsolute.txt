@@ -1,0 +1,34 @@
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.exe
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.deps.json
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.runtimeconfig.json
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.pdb
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.csproj.AssemblyReference.cache
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.AssemblyInfoInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.AssemblyInfo.cs
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.csproj.CoreCompileInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreA.FAD0B363.Up2Date
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\refint\NetCoreAI.Project06_DallEImageGeneration.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.pdb
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.genruntimeconfig.cache
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\ref\NetCoreAI.Project06_DallEImageGeneration.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.exe
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.deps.json
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.runtimeconfig.json
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.pdb
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.csproj.AssemblyReference.cache
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.AssemblyInfoInputs.cache
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.AssemblyInfo.cs
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.csproj.CoreCompileInputs.cache
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreA.FAD0B363.Up2Date
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\refint\NetCoreAI.Project06_DallEImageGeneration.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.pdb
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\NetCoreAI.Project06_DallEImageGeneration.genruntimeconfig.cache
+C:\Users\emred\NetCoreAI\NetCoreAI.Project6_DallEImageGeneration\obj\Debug\net9.0\ref\NetCoreAI.Project06_DallEImageGeneration.dll

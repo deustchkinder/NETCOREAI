@@ -1,0 +1,28 @@
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.exe
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.deps.json
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.runtimeconfig.json
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.pdb
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.AssemblyInfoInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.AssemblyInfo.cs
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.csproj.CoreCompileInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\refint\NetCoreAI.Project19_CreateStoryWithAI.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.pdb
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.genruntimeconfig.cache
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\ref\NetCoreAI.Project19_CreateStoryWithAI.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.exe
+C:\Users\emred\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.deps.json
+C:\Users\emred\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.runtimeconfig.json
+C:\Users\emred\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.pdb
+C:\Users\emred\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emred\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.AssemblyInfoInputs.cache
+C:\Users\emred\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.AssemblyInfo.cs
+C:\Users\emred\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.csproj.CoreCompileInputs.cache
+C:\Users\emred\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\refint\NetCoreAI.Project19_CreateStoryWithAI.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.pdb
+C:\Users\emred\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI.Project19_CreateStoryWithAI.genruntimeconfig.cache
+C:\Users\emred\NetCoreAI\NetCoreAI.Project19_CreateStoryWithAI\obj\Debug\net9.0\ref\NetCoreAI.Project19_CreateStoryWithAI.dll

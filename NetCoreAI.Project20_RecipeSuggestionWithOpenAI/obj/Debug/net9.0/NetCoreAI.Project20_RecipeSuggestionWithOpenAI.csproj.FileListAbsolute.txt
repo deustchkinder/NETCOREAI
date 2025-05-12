@@ -1,0 +1,569 @@
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\appsettings.json
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.staticwebassets.runtime.json
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.staticwebassets.endpoints.json
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.exe
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.deps.json
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.runtimeconfig.json
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.pdb
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Humanizer.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.csproj.AssemblyReference.cache
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.AssemblyInfoInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.AssemblyInfo.cs
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.csproj.CoreCompileInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.RazorAssemblyInfo.cache
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.RazorAssemblyInfo.cs
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\scopedcss\bundle\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.styles.css
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\scopedcss\projectbundle\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.bundle.scp.css
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\e9h23qn88v-lugek5hnai.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\twsrhq60bi-61n19gt1b8.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\75j956azop-fr7q2aak1r.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\s3yt43s98w-bqjiyaj88i.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\gkm9wkge8z-c2jlpeoesf.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\fggxi2sqb5-erw9l3u2r3.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\7de9ebg5aa-aexeepp0ev.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\qf7pas7vb6-d7shbmvgxk.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\vfxrcitpr8-ausgxo2sd3.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\4q3hil5q65-k8d9w2qqmf.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\x0cunqojdx-cosvhxvwiu.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\irg3i9vyc4-ub07r2b239.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\jbj13utof9-fvhpjtyr6v.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\1dyxu5kyu1-b7pk76d08c.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\if4ydbp61u-fsbi9cje9m.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\n3h2znel0j-rzd6atqjts.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\3xl16te3ld-ee0r1s7dh0.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\gjey58z4go-dxx9fxp4il.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\dednlc8vb7-jd9uben2k1.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\wsxg6namt0-khv3u5hwcm.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\swyugqa113-r4e9w2rdcm.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\ilrsq3f4pk-lcd1t2u6c8.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\flp02cw00w-c2oey78nd0.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\zw8yu0j6rb-tdbxkamptv.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\4ann028bob-j5mq2jizvt.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\0kf5todbqm-06098lyss8.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\ctgd0mrova-nvvlpmu67g.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\wxsdehsv6a-s35ty4nyc5.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\j10mghk5fv-pj5nd1wqec.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\aufndq2xue-46ein0sx1k.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\jzmo50a2zr-v0zj4ognzu.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\i87oye44sc-37tfw0ft22.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\xvukitxmq3-hrwsygsryq.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\vq6x6qc94j-pk9g2wxc8p.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\gq41gauh2y-ft3s53vfgj.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\av1lx2h6zi-6cfz1n2cew.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\m8fyibm66h-6pdc2jztkx.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\9ltv3sto1p-493y06b0oq.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\fk2nvfanr0-iovd86k7lj.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\zp6ndi4ne7-vr1egmr9el.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\3rnhpcd8wq-kbrnm935zg.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\m014f536dl-jj8uyg4cgr.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\04eul5jrah-y7v9cxd14o.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\c6x6s8mkjc-notf2xhcfb.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\r7mz4rvsju-h1s4sie4z3.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\5ov2lxkisy-63fj8s7r0e.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\qfu4pzl4cd-0j3bgjxly4.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\q5yx1tnu5g-47otxtyo56.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\9qhy8lnaf5-4v8eqarkd7.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\usbh4rlh5h-l3n5xuwxn8.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\inqrtit74u-ilo7uva0vt.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\qzst5pfjpy-qlccset4i1.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\gobuvlf82y-lzl9nlhx6b.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\qw1i5w5352-ag7o75518u.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\actp024th3-xzw0cte36n.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\6p0q8wy0om-0i3buxo5is.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\asjl3ks24w-o1o13a6vjx.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\nxv96naqlq-ttgo8qnofa.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\6h4u2e04ix-2z0ns9nrw6.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\pe90vgpymt-muycvpuwrr.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\u9ehlr059m-87fc7y1x7t.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\c9x3rdt0zj-jfsiqqwiad.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\qqiw5lzxgf-en8d37htfl.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\xgqovbtbhc-en8d37htfl.gz
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets\msbuild.NetCoreAI.Project20_RecipeSuggestionWithOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets\msbuild.NetCoreAI.Project20_RecipeSuggestionWithOpenAI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets\msbuild.build.NetCoreAI.Project20_RecipeSuggestionWithOpenAI.props
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.NetCoreAI.Project20_RecipeSuggestionWithOpenAI.props
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.NetCoreAI.Project20_RecipeSuggestionWithOpenAI.props
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreA.513D4C9C.Up2Date
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\refint\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.dll
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.pdb
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.genruntimeconfig.cache
+C:\Users\emred\OneDrive\Masaüstü\.NET CORE\Artificial Intelligence\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\ref\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\appsettings.json
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.staticwebassets.endpoints.json
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.staticwebassets.runtime.json
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.exe
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.deps.json
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.runtimeconfig.json
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.pdb
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Humanizer.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.csproj.AssemblyReference.cache
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.AssemblyInfoInputs.cache
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.AssemblyInfo.cs
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.csproj.CoreCompileInputs.cache
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.RazorAssemblyInfo.cache
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.RazorAssemblyInfo.cs
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\scopedcss\bundle\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.styles.css
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\scopedcss\projectbundle\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.bundle.scp.css
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\e9h23qn88v-lugek5hnai.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\twsrhq60bi-61n19gt1b8.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\75j956azop-fr7q2aak1r.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\s3yt43s98w-bqjiyaj88i.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\gkm9wkge8z-c2jlpeoesf.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\fggxi2sqb5-erw9l3u2r3.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\7de9ebg5aa-aexeepp0ev.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\qf7pas7vb6-d7shbmvgxk.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\vfxrcitpr8-ausgxo2sd3.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\4q3hil5q65-k8d9w2qqmf.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\x0cunqojdx-cosvhxvwiu.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\irg3i9vyc4-ub07r2b239.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\jbj13utof9-fvhpjtyr6v.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\1dyxu5kyu1-b7pk76d08c.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\if4ydbp61u-fsbi9cje9m.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\n3h2znel0j-rzd6atqjts.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\3xl16te3ld-ee0r1s7dh0.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\gjey58z4go-dxx9fxp4il.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\dednlc8vb7-jd9uben2k1.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\wsxg6namt0-khv3u5hwcm.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\swyugqa113-r4e9w2rdcm.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\ilrsq3f4pk-lcd1t2u6c8.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\flp02cw00w-c2oey78nd0.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\zw8yu0j6rb-tdbxkamptv.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\4ann028bob-j5mq2jizvt.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\0kf5todbqm-06098lyss8.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\ctgd0mrova-nvvlpmu67g.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\wxsdehsv6a-s35ty4nyc5.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\j10mghk5fv-pj5nd1wqec.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\aufndq2xue-46ein0sx1k.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\jzmo50a2zr-v0zj4ognzu.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\i87oye44sc-37tfw0ft22.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\xvukitxmq3-hrwsygsryq.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\vq6x6qc94j-pk9g2wxc8p.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\gq41gauh2y-ft3s53vfgj.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\av1lx2h6zi-6cfz1n2cew.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\m8fyibm66h-6pdc2jztkx.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\9ltv3sto1p-493y06b0oq.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\fk2nvfanr0-iovd86k7lj.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\zp6ndi4ne7-vr1egmr9el.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\3rnhpcd8wq-kbrnm935zg.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\m014f536dl-jj8uyg4cgr.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\04eul5jrah-y7v9cxd14o.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\c6x6s8mkjc-notf2xhcfb.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\r7mz4rvsju-h1s4sie4z3.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\5ov2lxkisy-63fj8s7r0e.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\qfu4pzl4cd-0j3bgjxly4.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\q5yx1tnu5g-47otxtyo56.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\9qhy8lnaf5-4v8eqarkd7.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\usbh4rlh5h-l3n5xuwxn8.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\inqrtit74u-ilo7uva0vt.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\qzst5pfjpy-qlccset4i1.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\gobuvlf82y-lzl9nlhx6b.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\qw1i5w5352-ag7o75518u.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\actp024th3-xzw0cte36n.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\6p0q8wy0om-0i3buxo5is.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\asjl3ks24w-o1o13a6vjx.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\nxv96naqlq-ttgo8qnofa.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\6h4u2e04ix-2z0ns9nrw6.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\pe90vgpymt-muycvpuwrr.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\u9ehlr059m-87fc7y1x7t.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\c9x3rdt0zj-jfsiqqwiad.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\qqiw5lzxgf-en8d37htfl.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\compressed\xgqovbtbhc-en8d37htfl.gz
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets\msbuild.NetCoreAI.Project20_RecipeSuggestionWithOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets\msbuild.NetCoreAI.Project20_RecipeSuggestionWithOpenAI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets\msbuild.build.NetCoreAI.Project20_RecipeSuggestionWithOpenAI.props
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.NetCoreAI.Project20_RecipeSuggestionWithOpenAI.props
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.NetCoreAI.Project20_RecipeSuggestionWithOpenAI.props
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreA.513D4C9C.Up2Date
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\refint\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.dll
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.pdb
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.genruntimeconfig.cache
+C:\Users\emred\NetCoreAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI\obj\Debug\net9.0\ref\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.dll
